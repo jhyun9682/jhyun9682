@@ -1,5 +1,5 @@
 ## *Software Engineer*, 꾸준히 성장하는 개발자
-![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
+![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
 ![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
 ![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
@@ -16,11 +16,9 @@
 
 
 
-
-
-✨  <I>[RESUME](https://bit.ly/3dEjGWB)</I>    
-🌱  <I>[PORTFOLIO](https://bit.ly/3GEPqXT)</I>      
-✏️  <I>[TISTORY](https://programmer-eun.tistory.com/)</I>    
+  
+🌱  <I>[PORTFOLIO]((https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)</I>      
+ 
 
 
 
