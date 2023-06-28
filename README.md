@@ -1,8 +1,12 @@
 ## *Software Engineer*, 꾸준히 성장하는 개발자
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
-![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
-![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
+![](https://img.shields.io/badge/-EclipseIDE-2C2255?&logo=EclipseIDE&logoColor=white)
+![](https://img.shields.io/badge/-ApacheMaven-C71A36?&logo=ApacheMaven&logoColor=white)
+![](https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/-IntellijIDEA-000000?&logo=IntellijIDEA&logoColor=white)
+![](https://img.shields.io/badge/-jQuery-0769AD?&logo=jQuery&logoColor=white)
+
 ![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![react native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
@@ -17,7 +21,7 @@
 
 
   
-🌱  <I>[PORTFOLIO]((https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)</I>      
+🌱  <I>[PORTFOLIO](https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)</I>      
  
 
 
