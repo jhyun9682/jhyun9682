@@ -1,4 +1,4 @@
-## *Lee JungHyun*, @jhyun9682
+## *Lee JungHyun* - @jhyun9682
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
 ![](https://img.shields.io/badge/-ApacheMaven-C71A36?&logo=ApacheMaven&logoColor=white)
