@@ -15,14 +15,9 @@
 ![](https://img.shields.io/badge/-IntellijIDEA-000000?&logo=IntellijIDEA&logoColor=white)
 ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
 ![](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=white)
 
 
-
-
-![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![react native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
 
 
 
