@@ -5,8 +5,8 @@
 ![](https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=white)
 ![](https://img.shields.io/badge/-jQuery-0769AD?&logo=jQuery&logoColor=white)
 ![](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/-ApacheTomcat-F8DC75?&logo=ApacheTomcat&logoColor=black)
+![](https://img.shields.io/badge/-Java%20Script-F7DF1E?&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?&logo=ApacheTomcat&logoColor=black)
 ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
 
@@ -26,8 +26,8 @@
 
 
 
-* **핀테크 분야 JAVA 개발자 인력양성**"%20"<I>2023.05 ~ 2023.06</I> 
-* **SW융합 기반 자바 웹개발자 양성과정(백엔드, 프론트엔드)**"%20"<I>2022.05 ~ 2022.10</I>
+* **핀테크 분야 JAVA 개발자 인력양성** <I>  2023.05 ~ 2023.06</I> 
+* **SW융합 기반 자바 웹개발자 양성과정(백엔드, 프론트엔드)** <I>  2022.05 ~ 2022.10</I>
 
 
 
