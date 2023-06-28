@@ -1,6 +1,6 @@
 ## *Software Engineer*, 꾸준히 성장하는 개발자
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
+![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
 ![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
 ![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
