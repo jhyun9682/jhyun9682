@@ -1,4 +1,4 @@
-## *Software Engineer*, 꾸준히 성장하는 개발자
+## *Lee JungHyun*, @jhyun9682
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
 ![](https://img.shields.io/badge/-ApacheMaven-C71A36?&logo=ApacheMaven&logoColor=white)
@@ -7,8 +7,6 @@
 ![](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/-ApacheTomcat-F8DC75?&logo=ApacheTomcat&logoColor=black)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/-ApacheTomcat-F8DC75?&logo=ApacheTomcat&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
 
