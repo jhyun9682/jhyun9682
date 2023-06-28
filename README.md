@@ -1,11 +1,23 @@
 ## *Software Engineer*, 꾸준히 성장하는 개발자
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
-![](https://img.shields.io/badge/-EclipseIDE-2C2255?&logo=EclipseIDE&logoColor=white)
 ![](https://img.shields.io/badge/-ApacheMaven-C71A36?&logo=ApacheMaven&logoColor=white)
 ![](https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/-IntellijIDEA-000000?&logo=IntellijIDEA&logoColor=white)
 ![](https://img.shields.io/badge/-jQuery-0769AD?&logo=jQuery&logoColor=white)
+![](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/-ApacheTomcat-F8DC75?&logo=ApacheTomcat&logoColor=black)
+![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
+
+![](https://img.shields.io/badge/-EclipseIDE-2C2255?&logo=EclipseIDE&logoColor=white)
+![](https://img.shields.io/badge/-Spring-6DB33F?&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/-IntellijIDEA-000000?&logo=IntellijIDEA&logoColor=white)
+![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
+![](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)
+
+
+
 
 ![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -14,9 +26,11 @@
 
 
 
-* **디프만 10기** <I>2021.09.04 ~ 2021.12.18</I> 
-* **우아한테크캠프 4기** <I>2021.07.05 ~ 2021.08.31</I>
-* **SW마에스트로 11기 인증** <I>2020.05.19 ~ 2020.12.01</I>
+* **핀테크 분야 JAVA 개발자 인력양성** <I>2023.05 ~ 2023.06</I> 
+* **SW융합 기반 자바 웹개발자 양성과정(백엔드, 프론트엔드)** <I>2022.05 ~ 2022.10</I>
+
+
+
 
 
 
