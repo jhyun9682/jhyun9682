@@ -40,7 +40,7 @@
 
 
   
-🌱  <I>[PORTFOLIO](https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-a8cef2fea3764454b14f2afed8afc041?pvs=4)</I>      
+🌱  <I>[PORTFOLIO](https://resisted-midnight-cee.notion.site/Lee-Jung-Hyun-5cdd750c652f48bcba208a412392f860?pvs=4)</I>      
  
 
 
