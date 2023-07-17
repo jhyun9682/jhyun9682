@@ -27,10 +27,12 @@
 
 
 
-* **핀테크 분야 JAVA 개발자 인력양성** &nbsp;&nbsp;<I>2023.05 ~ 2023.06</I> 
+* **핀테크 분야 JAVA 개발자 인력양성** &nbsp;&nbsp;<I>2023.05 ~ 2023.06</I>
+* -팀 프로젝트 2023.05 ~ 2023.06 FinPoint [Repository](https://github.com/Damgom/fin-point)
+  <br>
+  <br>
 * **SW융합 기반 자바 웹개발자 양성과정(백엔드, 프론트엔드)** &nbsp;&nbsp;<I>2022.05 ~ 2022.10</I>
-
-
+* -교육 과정 [Repository]()
 
 
 
