@@ -28,11 +28,13 @@
 
 
 * **핀테크 분야 JAVA 개발자 인력양성** &nbsp;&nbsp;<I>2023.05 ~ 2023.06</I>
-* -팀 프로젝트 2023.05 ~ 2023.06 FinPoint [Repository](https://github.com/Damgom/fin-point)
+* 프로젝트: 2023.05 ~ 2023.06 FinPoint [Repository](https://github.com/Damgom/fin-point)
+  <br>
   <br>
   <br>
 * **SW융합 기반 자바 웹개발자 양성과정(백엔드, 프론트엔드)** &nbsp;&nbsp;<I>2022.05 ~ 2022.10</I>
-* -교육 과정 [Repository]()
+* 교육 과정 : eclipse-workspaceEE [Repository](https://github.com/jhyun9682/eclipse-workspaceEE), eclipse-workspaceSE [Repository](https://github.com/jhyun9682/eclipse-workspaceSE), workspace-spring-tool-suite [Repository](https://github.com/jhyun9682/workspace-spring-tool-suite)
+* 프로젝트: 2022.09 ~ 2022.10 starForest_library [Repository](https://github.com/jhyun9682/team2-starForest_library)
 
 
 
