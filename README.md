@@ -1,7 +1,5 @@
 ## *Lee JungHyun* - @jhyun9682
 
-<img alt="Spring" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=SpringBoot&logoColor=white">
-<br />
 ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Maven-C71A36?&logo=ApacheMaven&logoColor=white)
